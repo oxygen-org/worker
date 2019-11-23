@@ -1,0 +1,18 @@
+{
+    "General":{
+        "Debug":true,
+        "Hostname":"",
+        "GitKeyPath":"~/.ssh/id_rsa"
+    },
+    "Redis":{
+        "Addr":"127.0.0.1:6379",
+        "DB":0,
+        "PW":""
+    },
+    "Docker":{
+        "Endpoint":"",
+        "CA":"", 
+        "Cert":"",
+        "Key":"" 
+    }
+}
